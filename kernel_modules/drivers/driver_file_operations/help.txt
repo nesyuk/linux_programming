@@ -1,0 +1,15 @@
+- make
+	cleans existing binary files and re-creates the device node
+
+- make do_test
+	compiles the test file
+
+- make load
+	loads kernel module
+
+- make unload
+	unloads kernel module
+
+- make log
+	prints defug info: sudo dmesg -c
+
