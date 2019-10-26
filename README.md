@@ -1,2 +1,2 @@
 # linux_programming
-code snippets for Linux kernel
+code snippets for Linux & Linux kernel modules
