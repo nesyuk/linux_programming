@@ -1,2 +1,2 @@
 # linux_programming
-Linux code examples
+code snippets for Linux kernel
